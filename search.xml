@@ -33,7 +33,7 @@
       <link href="/2024/11/07/2024-11-7-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2024/11/07/2024-11-7-%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="博客初始化"><a href="#博客初始化" class="headerlink" title="博客初始化"></a>博客初始化</h2><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git init</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <script id="hbeData" type="hbeData" data-hmacdigest="b6149149034c2c6d5414d88196c9547c55c9dad0bbd1fc89c5a6fb36f81fd4f7">9e26f9cabc8270622d77332da5595534313716d12bb36d7bdad07cc91db8bf94c0715dad095622192adc273e65774356cb70ce1d656d08321ce63e2268302173365eaece576e9d3221d133fa2979c248c0d1cfdfd892c5042096380fa2397e1461e1fc967d378b688183707ae784d2afd6e5cdac62bfa33e4f1544b94331128bd0f418a5ea75fa225a9002d53f297696a896b5b0f7d84b3a57bef42af7db3044db674851d4becaf1a7ed5c537d8df089f4b685b1150f0a1750612129fc66c7b0147f1c97862b58a4862a1ad89df855f44d020afcb8d30dc9ce45fd1ecc42128e7daeb0395566f16caa6f30f1d42c12d7421b4b33a8d944c127032d88de053d096e519044122f5ab2e5415dfd1eeaade5de0f865c9bfe04ff2a19ca51371d1dbeac20927e4737245e4a66f6a592cd6da9018858f3962301795e321c60375154ef67f1dcc5e8930210d53f8ff9d1fdd8f3122b35630879fc55aca6cdf204006de9</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-xray">      <input class="hbe hbe-input-field hbe-input-field-xray" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-xray" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-xray">您好, 这里需要密码.</span>      </label>      <svg class="hbe hbe-graphic hbe-graphic-xray" width="300%" height="100%" viewBox="0 0 1200 60" preserveAspectRatio="none">        <path d="M0,56.5c0,0,298.666,0,399.333,0C448.336,56.5,513.994,46,597,46c77.327,0,135,10.5,200.999,10.5c95.996,0,402.001,0,402.001,0"></path>        <path d="M0,2.5c0,0,298.666,0,399.333,0C448.336,2.5,513.994,13,597,13c77.327,0,135-10.5,200.999-10.5c95.996,0,402.001,0,402.001,0"></path>      </svg>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       
       
       <categories>
@@ -42,6 +42,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> Diary </tag>
+            
+        </tags>
       
     </entry>
     
